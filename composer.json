@@ -1,0 +1,18 @@
+{
+    "name": "prabhat2k15/switcher",
+    "description": "this is sip switcher api",
+    "type": "library",
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prabhat Kumar",
+            "email": "prabhat2k15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"require-dev": {}
+}
